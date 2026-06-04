@@ -116,8 +116,6 @@ When four matching pieces are found consecutively, the game declares the winner 
 
 ## 📸 Screenshots
 
-Add screenshots of your game here:
-
 ```markdown
 ![Game Board](screenshots/game-board.png)
 ```
